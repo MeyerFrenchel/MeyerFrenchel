@@ -20,3 +20,4 @@ I am a friendly, fast-learning individual, currently into the Gatsby.<br><br> Fo
 ### If you want to get in touch, please contact me on LinkedIn or by email at meyer.frenchel@gmail.com
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/meyer-frenchel-5bb7191ab/)](https://www.linkedin.com/in/meyer-frenchel-5bb7191ab//)
+visit my Portfolio on https://meyerfrenchel.com/
