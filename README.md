@@ -1,8 +1,8 @@
 ## Hello, dear visitor! 👋
 
-### My name is Meyer and I'm a 28 years old Frontend Developer from Iasi, Romania!
+### My name is Meyer and I'm a 29 years old Frontend Developer from Iasi, Romania!
 
-I am a friendly, fast-learning individual, currently into the Gatsby.<br><br> For whatever experience I lack, I compensate through hard work and study and I believe in a world where everybody can become a better version of themselves through these two steps!
+I am a friendly, fast-learning individual, currently into the web3.0 world.<br><br> For whatever experience I lack, I compensate through hard work and study and I believe in a world where everybody can become a better version of themselves through these two steps!
 
 #### The Frontend technologies I currently use:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
